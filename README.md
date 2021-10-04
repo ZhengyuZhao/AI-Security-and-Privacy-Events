@@ -1,5 +1,5 @@
 # A curated list of events on adversarial examples
-Besides the curated listes of [papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) and [tookits](https://opensourcelibs.com/libs/adversarial-examples), we hope the following resources of related events (e.g. workshops and tutorials) will also help light up your journey on adversarial examples. :smile_cat:	
+Among other resources including [papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) and [tookits](https://opensourcelibs.com/libs/adversarial-examples), we hope the following list of related events (e.g. workshops and tutorials) will also help light up your journey on adversarial examples. :smile_cat:	
 
 
 ## General Security
@@ -10,20 +10,20 @@ Besides the curated listes of [papers](https://nicholas.carlini.com/writing/2019
 <!-- - ### Tutorials -->
 ## Artificial Intelligence & Machine Learning
 - ### Workshops
-  + **A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning** ([ICML 2021](https://advml-workshop.github.io/icml2021/))
-  + **Socially Responsible Machine Learning** ([ICML 2021](https://icmlsrml2021.github.io/))
-  + **Uncertainty & Robustness in Deep Learning** ([ICML 2021](https://sites.google.com/view/udlworkshop2021/home), [ICML 2020](https://sites.google.com/view/udlworkshop2020/home))
-  + **Security and Privacy of Machine Learning** ([ICML 2019](https://icml2019workshop.github.io/))
   + **Security and Safety in Machine Learning Systems** ([ICLR 2021](https://aisecure-workshop.github.io/aml-iclr2021/))
   + **Robust and Reliable Machine Learning in the Real World** ([ICLR 2021](https://sites.google.com/connect.hku.hk/robustml-2021/home))
   + **Towards Trustworthy ML: Rethinking Security and Privacy for ML** ([ICLR 2020](https://trustworthyiclr20.github.io/))
   + **Safe Machine Learning: Specification, Robustness and Assurance** ([ICLR 2019](https://sites.google.com/view/safeml-iclr2019))
-  + **Adversarial Learning Methods for Machine Learning and Data Mining** ([KDD 2021](https://sites.google.com/view/advml), [KDD 2020](https://sites.google.com/view/advml/Home/advml-2020), [KDD 2019](https://sites.google.com/view/advml/Home/advml-2019))
-  + **Dataset Curation and Securit** ([NeurIPS 2020](http://securedata.lol/))
+  + **A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning** ([ICML 2021](https://advml-workshop.github.io/icml2021/))
+  + **Socially Responsible Machine Learning** ([ICML 2021](https://icmlsrml2021.github.io/))
+  + **Uncertainty & Robustness in Deep Learning** ([ICML 2021](https://sites.google.com/view/udlworkshop2021/home), [ICML 2020](https://sites.google.com/view/udlworkshop2020/home))
+  + **Security and Privacy of Machine Learning** ([ICML 2019](https://icml2019workshop.github.io/))
+  + **Dataset Curation and Security** ([NeurIPS 2020](http://securedata.lol/))
   + **Security in Machine Learning** ([NeurIPS 2018](https://secml2018.github.io/))
   + **Machine Learning and Computer Security** ([NeurIPS 2017](https://machine-learning-and-security.github.io/))
   + **Adversarial Training** ([NeurIPS 2016](https://sites.google.com/site/nips2016adversarial/))
   + **Reliable Machine Learning in the Wild** ([NeurIPS 2016](https://sites.google.com/site/wildml2016nips/home))
+  + **Adversarial Learning Methods for Machine Learning and Data Mining** ([KDD 2021](https://sites.google.com/view/advml), [KDD 2020](https://sites.google.com/view/advml/Home/advml-2020), [KDD 2019](https://sites.google.com/view/advml/Home/advml-2019))
   + **Artificial Intelligence Safety** ([AAAI 2019-2022](https://safeai.webs.upv.es/))
   + **Adversarial Machine Learning and Beyond** ([AAAI 2022](https://advml-workshop.github.io/aaai2022/))
   + **Towards Robust, Secure and Efficient Machine Learning** ([AAAI2021](http://federated-learning.org/rseml2021/))
