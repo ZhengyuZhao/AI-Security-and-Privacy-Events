@@ -7,7 +7,7 @@ Besides the curated listes of [papers](https://nicholas.carlini.com/writing/2019
   + **Artificial Intelligence and Security** ([CCS 2008-2021](https://aisec.cc/))
   + **Deep Learning and Security** ([S&P 2018-2021](https://www.ieee-security.org/TC/SP2021/SPW2021/dls_website/))
 
-- ### Tutorials
+<!-- - ### Tutorials -->
 ## Artificial Intelligence & Machine Learning
 - ### Workshops
   + **A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning** ([ICML 2021](https://advml-workshop.github.io/icml2021/))
@@ -29,6 +29,12 @@ Besides the curated listes of [papers](https://nicholas.carlini.com/writing/2019
   + **Towards Robust, Secure and Efficient Machine Learning** ([AAAI2021](http://federated-learning.org/rseml2021/))
 
 - ### Tutorials
+  + **Adversarial Robustness - Theory and Practice** ([NeurIPS 2018](https://adversarial-ml-tutorial.org/))
+  + **Adversarial Robustness in Deep Learning: From Practices to Theories** ([KDD 2021](https://sites.google.com/view/kdd21-tutorial-adv-robust/))
+  + **Adversarial Attacks and Defenses: Frontiers, Advances and Practice** ([KDD 2020](https://sites.google.com/view/kdd-2020-attack-and-defense/home))
+  + **Adversarial Robustness of Deep Learning: Theory, Algorithms, and Applications** ([ICDM 2020](https://tutorial.trustdeeplearning.com/))
+  + **Adversarial Machine Learning** ([AAAI 2018](https://aaai18adversarial.github.io/index.html#syl))
+
 ## Computer Vision
 - ### Workshops
   + **The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security** ([CVPR 2021](https://quovadiscvpr.cispa.de/), [ECCV 2020](https://cvcops20.cispa.saarland/), [CVPR 2019](https://cvcops19.cispa.saarland/), [CVPR 2018](https://vision.soic.indiana.edu/bright-and-dark-workshop-2018/), [CVPR 2017](https://vision.soic.indiana.edu/bright-and-dark-workshop-2017/)  )
@@ -36,13 +42,24 @@ Besides the curated listes of [papers](https://nicholas.carlini.com/writing/2019
   + **Adversarial Learning for Multimedia** ([ACMMM 2021](https://advm-workshop-2021.github.io/))
 
 - ### Tutorials
-## Nature Language Processing
+  + **Adversarial Machine Learning in Computer Vision** ([CVPR 2021](https://advmlincv.github.io/cvpr21-tutorial/))
+  + **Practical Adversarial Robustness in Deep Learning: Problems and Solutions** ([CVPR 2021](https://sites.google.com/view/par-2021))
+  + **Adversarial Robustness of Deep Learning Models** ([ECCV 2020](https://sites.google.com/umich.edu/eccv-2020-adv-robustness))
+  + **Deep Learning for Privacy in Multimedia** ([ACMMM 2020](http://cis.eecs.qmul.ac.uk/privacymultimedia.html))
+ 
+## Natural Language Processing
 - ### Workshops
   + **Analyzing and Interpreting Neural Networks for NLP** ([EMNLP 2021](https://blackboxnlp.github.io/), [EMNLP 2020](https://blackboxnlp.github.io/2020/), [ACL 2019](https://blackboxnlp.github.io/2019/), [EMNLP 2018](https://blackboxnlp.github.io/2018/))
- 
+
+- ### Tutorials
+  + **Robustness and Adversarial Examples in Natural Language Processing** ([EMNLP 2021](https://2021.emnlp.org/tutorials))
+  + **Deep Adversarial Learning for NLP** ([NAACL 2019](https://sites.cs.ucsb.edu/~william/papers/AdvNLP-NAACL2019.pdf))
+
 ## Information Retrieval & Recommender Systems
 - ### Workshops
   + **Adversarial Machine Learning for Recommendation and Search** ([CIKM 2021](https://sisinflab.github.io/adverse2021/))
   + **Online Misinformation- and Harm-Aware Recommender Systems** ([RecSys 2021](https://ohars-recsys.isistan.unicen.edu.ar/topics-of-interest), [RecSys 2020](https://ohars-recsys2020.isistan.unicen.edu.ar/))
 
 - ### Tutorials
+  + **Adversarial Machine Learning in Recommender Systems** ([ECIR 2021](https://www.youtube.com/watch?v=8V4TLdYMit8&list=PLted5MzCy6KwnlE3kFmeQJhDJCbS1lAt0&index=3), [RecSys 2020](https://www.youtube.com/watch?v=tjzykHbBd0w&list=PLted5MzCy6KwnlE3kFmeQJhDJCbS1lAt0&index=2), [WSDM 2020](https://github.com/sisinflab/amlrecsys-tutorial/blob/master/Tutorial-AML-RecSys-WSDM2020.pdf))
+
