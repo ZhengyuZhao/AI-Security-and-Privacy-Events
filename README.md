@@ -2,13 +2,13 @@
 Beyond other resources such as [papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) and [tookits](https://opensourcelibs.com/libs/adversarial-examples), here we provide a curated list of related events (e.g. workshops and tutorials) and hope it can help light up your journey on adversarial examples. :smile_cat:	
 
 
-## General Security
+## Classic Security
 - ### Workshops
   + **Artificial Intelligence and Security** ([CCS 2008-2021](https://aisec.cc/))
   + **Deep Learning and Security** ([S&P 2018-2021](https://www.ieee-security.org/TC/SP2021/SPW2021/dls_website/))
 
 <!-- - ### Tutorials -->
-## Artificial Intelligence & Machine Learning
+## Machine Learning
 - ### Workshops
   + **Security and Safety in Machine Learning Systems** ([ICLR 2021](https://aisecure-workshop.github.io/aml-iclr2021/))
   + **Robust and Reliable Machine Learning in the Real World** ([ICLR 2021](https://sites.google.com/connect.hku.hk/robustml-2021/home))
