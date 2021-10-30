@@ -25,6 +25,7 @@ Among other resources including [papers](https://nicholas.carlini.com/writing/20
   + **Reliable Machine Learning in the Wild** ([NeurIPS 2016](https://sites.google.com/site/wildml2016nips/home))
   + **Adversarial Learning Methods for Machine Learning and Data Mining** ([KDD 2021](https://sites.google.com/view/advml), [KDD 2020](https://sites.google.com/view/advml/Home/advml-2020), [KDD 2019](https://sites.google.com/view/advml/Home/advml-2019))
   + **Artificial Intelligence Safety** ([AAAI 2019-2022](https://safeai.webs.upv.es/))
+  + **Practical Deep Learning in the Wild** ([AAAI 2022](https://practical-dl.github.io/))
   + **Adversarial Machine Learning and Beyond** ([AAAI 2022](https://advml-workshop.github.io/aaai2022/))
   + **Towards Robust, Secure and Efficient Machine Learning** ([AAAI2021](http://federated-learning.org/rseml2021/))
 
