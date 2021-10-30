@@ -1,4 +1,4 @@
-# A curated list of events on adversarial examples
+# A curated list of events on adversarial examples in AI-related fields (e.g. ML, CV, NLP, IR)
 Beyond other resources such as [papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) and [tookits](https://opensourcelibs.com/libs/adversarial-examples), here we provide a curated list of related events (e.g. workshops and tutorials) and hope it can help light up your journey on adversarial examples. :smile_cat:	
 
 
