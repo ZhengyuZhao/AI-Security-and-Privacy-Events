@@ -13,6 +13,7 @@ Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and 
 <!-- - ### Tutorials -->
 ## AI S&P in ML
 - ### Workshops
+  + **Socially Responsible Machine Learning** ([ICLR 2022](https://iclrsrml.github.io/))
   + **Security and Safety in Machine Learning Systems** ([ICLR 2021](https://aisecure-workshop.github.io/aml-iclr2021/))
   + **Robust and Reliable Machine Learning in the Real World** ([ICLR 2021](https://sites.google.com/connect.hku.hk/robustml-2021/home))
   + **Towards Trustworthy ML: Rethinking Security and Privacy for ML** ([ICLR 2020](https://trustworthyiclr20.github.io/))
