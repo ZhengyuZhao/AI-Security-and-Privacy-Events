@@ -37,6 +37,7 @@ Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and 
   + **Adversarial Robustness in Deep Learning: From Practices to Theories** ([KDD 2021](https://sites.google.com/view/kdd21-tutorial-adv-robust/))
   + **Adversarial Attacks and Defenses: Frontiers, Advances and Practice** ([KDD 2020](https://sites.google.com/view/kdd-2020-attack-and-defense/home))
   + **Adversarial Robustness of Deep Learning: Theory, Algorithms, and Applications** ([ICDM 2020](https://tutorial.trustdeeplearning.com/))
+  + **Adversarial Machine Learning for Good** ([AAAI 2022](https://sites.google.com/view/advml4good))
   + **Adversarial Machine Learning** ([AAAI 2018](https://aaai18adversarial.github.io/index.html#syl))
 
 ## AI S&P in CV
