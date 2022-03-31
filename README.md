@@ -18,6 +18,8 @@ Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and 
   + **Robust and Reliable Machine Learning in the Real World** ([ICLR 2021](https://sites.google.com/connect.hku.hk/robustml-2021/home))
   + **Towards Trustworthy ML: Rethinking Security and Privacy for ML** ([ICLR 2020](https://trustworthyiclr20.github.io/))
   + **Safe Machine Learning: Specification, Robustness and Assurance** ([ICLR 2019](https://sites.google.com/view/safeml-iclr2019))
+  + **Theory and Practice of Differential Privacy** ([ICML 2022](https://tpdp.journalprivacyconfidentiality.org/2022/)) 
+  + **New Frontiers in Adversarial Machine Learning** ([ICML 2022](https://advml-frontier.github.io/)) 
   + **A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning** ([ICML 2021](https://advml-workshop.github.io/icml2021/))
   + **Socially Responsible Machine Learning** ([ICML 2021](https://icmlsrml2021.github.io/))
   + **Uncertainty & Robustness in Deep Learning** ([ICML 2021](https://sites.google.com/view/udlworkshop2021/home), [ICML 2020](https://sites.google.com/view/udlworkshop2020/home))
