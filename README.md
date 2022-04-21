@@ -5,7 +5,7 @@ Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and 
 <!-- Beyond other resources (e.g. [papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) and [tookits](https://opensourcelibs.com/libs/adversarial-examples)), here we provide a curated list of related events (e.g. workshops and tutorials) and hope it can help light up your journey on AI Security and Privacy. :smile_cat:	 -->
 
 
-## AI S&P in Security
+## AI S&P in S&P
 - ### Workshops
   + **Artificial Intelligence and Security** ([CCS 2008-present](https://aisec.cc/))
   + **Deep Learning and Security** ([Oakland 2018-present](https://dls2022.ieee-security.org/))
