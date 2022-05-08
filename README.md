@@ -5,13 +5,16 @@ Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and 
 <!-- Beyond other resources (e.g. [papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) and [tookits](https://opensourcelibs.com/libs/adversarial-examples)), here we provide a curated list of related events (e.g. workshops and tutorials) and hope it can help light up your journey on AI Security and Privacy. :smile_cat:	 -->
 
 
-## AI S&P in S&P
+## General venues
+- ### [**IEEE Conference on Secure and Trustworthy Machine Learning**](https://satml.org/)
+
+## S&P venues
 - ### Workshops
   + **Artificial Intelligence and Security** ([CCS 2008-present](https://aisec.cc/))
   + **Deep Learning and Security** ([Oakland 2018-present](https://dls2022.ieee-security.org/))
 
 <!-- - ### Tutorials -->
-## AI S&P in ML
+## ML venues
 - ### Workshops
   + **Socially Responsible Machine Learning** ([ICLR 2022](https://iclrsrml.github.io/))
   + **Privacy, Accountability, Interpretability, Robustness, Reasoning on Structured Data** ([ICLR 2022](https://pair2struct-workshop.github.io/))
@@ -45,7 +48,7 @@ Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and 
   + **Adversarial Machine Learning for Good** ([AAAI 2022](https://sites.google.com/view/advml4good))
   + **Adversarial Machine Learning** ([AAAI 2018](https://aaai18adversarial.github.io/index.html#syl))
 
-## AI S&P in CV
+## CV venues
 - ### Workshops
   + **The Art of Robustness: Devil and Angel in Adversarial Machine Learning** ([CVPR 2022](https://artofrobust.github.io/))
   + **The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security** ([CVPR 2021](https://quovadiscvpr.cispa.de/), [ECCV 2020](https://cvcops20.cispa.saarland/), [CVPR 2019](https://cvcops19.cispa.saarland/), [CVPR 2018](https://vision.soic.indiana.edu/bright-and-dark-workshop-2018/), [CVPR 2017](https://vision.soic.indiana.edu/bright-and-dark-workshop-2017/)  )
@@ -58,7 +61,7 @@ Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and 
   + **Adversarial Robustness of Deep Learning Models** ([ECCV 2020](https://sites.google.com/umich.edu/eccv-2020-adv-robustness))
   + **Deep Learning for Privacy in Multimedia** ([ACMMM 2020](http://cis.eecs.qmul.ac.uk/privacymultimedia.html))
  
-## AI S&P in NLP
+## NLP venues
 - ### Workshops
   + **Analyzing and Interpreting Neural Networks for NLP** ([EMNLP 2021](https://blackboxnlp.github.io/), [EMNLP 2020](https://blackboxnlp.github.io/2020/), [ACL 2019](https://blackboxnlp.github.io/2019/), [EMNLP 2018](https://blackboxnlp.github.io/2018/))
 
@@ -66,7 +69,7 @@ Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and 
   + **Robustness and Adversarial Examples in Natural Language Processing** ([EMNLP 2021](https://2021.emnlp.org/tutorials))
   + **Deep Adversarial Learning for NLP** ([NAACL 2019](https://sites.cs.ucsb.edu/~william/papers/AdvNLP-NAACL2019.pdf))
 
-## AI S&P in IR & RecSys
+## IR & RecSys venues
 - ### Workshops
   + **Adversarial Machine Learning for Recommendation and Search** ([CIKM 2021](https://sisinflab.github.io/adverse2021/))
   + **Online Misinformation- and Harm-Aware Recommender Systems** ([RecSys 2021](https://ohars-recsys.isistan.unicen.edu.ar/topics-of-interest), [RecSys 2020](https://ohars-recsys2020.isistan.unicen.edu.ar/))
