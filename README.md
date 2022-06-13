@@ -1,4 +1,4 @@
-# A curated list of workshops and tutorials on AI Security and Privacy
+# A curated list of workshops and tutorials on AI S&P
 
 Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and **IR & RecSys** venues.
 
