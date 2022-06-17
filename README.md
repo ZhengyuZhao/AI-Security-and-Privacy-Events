@@ -35,10 +35,11 @@ Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and 
   + **Adversarial Training** ([NeurIPS 2016](https://sites.google.com/site/nips2016adversarial/))
   + **Reliable Machine Learning in the Wild** ([NeurIPS 2016](https://sites.google.com/site/wildml2016nips/home))
   + **Adversarial Learning Methods for Machine Learning and Data Mining** ([KDD 2022](https://sites.google.com/view/advml), [KDD 2021](https://sites.google.com/view/advml), [KDD 2020](https://sites.google.com/view/advml/Home/advml-2020), [KDD 2019](https://sites.google.com/view/advml/Home/advml-2019))
-  + **Artificial Intelligence Safety** ([AAAI 2019-2022](https://safeai.webs.upv.es/))
+  + **SafeAI** ([AAAI 2019-2022](https://safeai.webs.upv.es/))
   + **Practical Deep Learning in the Wild** ([AAAI 2022](https://practical-dl.github.io/))
   + **Adversarial Machine Learning and Beyond** ([AAAI 2022](https://advml-workshop.github.io/aaai2022/))
   + **Towards Robust, Secure and Efficient Machine Learning** ([AAAI2021](http://federated-learning.org/rseml2021/))
+  + **AISafety** ([IJCAI 2019-2022](https://www.aisafetyw.org/))
 
 - ### Tutorials
   + **Adversarial Robustness - Theory and Practice** ([NeurIPS 2018](https://adversarial-ml-tutorial.org/))
