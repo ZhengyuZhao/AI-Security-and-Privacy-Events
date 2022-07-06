@@ -1,6 +1,6 @@
 # A curated list of workshops and tutorials on AI S&P
 
-Workshops and Tutorials on AI S&P in **Security**, **ML**, **CV**, **NLP**, and **IR & RecSys** venues.
+Workshops and Tutorials on AI S&P for **Security**, **ML**, **CV**, **NLP**, and **IR & RecSys**.
 
 <!-- Beyond other resources (e.g. [papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) and [tookits](https://opensourcelibs.com/libs/adversarial-examples)), here we provide a curated list of related events (e.g. workshops and tutorials) and hope it can help light up your journey on AI Security and Privacy. :smile_cat:	 -->
 
