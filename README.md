@@ -6,8 +6,12 @@ A curated list of AI Security & Privacy events (**Workshops, Tutorials, and Spec
 
 
 ## Conference
-- ### [**IEEE Conference on Secure and Trustworthy Machine Learning**](https://satml.org/)
-
+  + [**IEEE Conference on Secure and Trustworthy Machine Learning (2022-)**](https://satml.org/)
+## Special Session
+  + **Special Track on Safe and Robust AI** ([AAAI 2023](https://aaai.org/Conferences/AAAI-23/safeandrobustai/))
+  + **Special Session on Adversarial Learning for Multimedia Understanding and Retrieval** ([ICMR 2022](https://al4mur.github.io/))
+  + **Special Session on Adversarial Attack and Defense** ([APSIPA 2022](https://sites.google.com/ahduni.edu.in/2022-apsipa-ss-aad))
+  + **Special Session on Information Security meets Adversarial Examples** ([WIFS 2019](https://signalprocessingsociety.org/WIFS2019/index9f1c.html?q=node/18))
 ## Workshop
 - ### Security & Privacy
   + **Artificial Intelligence and Security** ([CCS 2008-present](https://aisec.cc/))
@@ -75,9 +79,5 @@ A curated list of AI Security & Privacy events (**Workshops, Tutorials, and Spec
 - ### Information Retrieval
   + **Adversarial Machine Learning in Recommender Systems** ([ECIR 2021](https://www.youtube.com/watch?v=8V4TLdYMit8&list=PLted5MzCy6KwnlE3kFmeQJhDJCbS1lAt0&index=3), [RecSys 2020](https://www.youtube.com/watch?v=tjzykHbBd0w&list=PLted5MzCy6KwnlE3kFmeQJhDJCbS1lAt0&index=2), [WSDM 2020](https://github.com/sisinflab/amlrecsys-tutorial/blob/master/Tutorial-AML-RecSys-WSDM2020.pdf))
 
-## Special Session
-  + **Special Track on Safe and Robust AI** ([AAAI 2023](https://aaai.org/Conferences/AAAI-23/safeandrobustai/))
-  + **Special Session on Adversarial Learning for Multimedia Understanding and Retrieval** ([ICMR 2022](https://al4mur.github.io/))
-  + **Special Session on Adversarial Attack and Defense** ([APSIPA 2022](https://sites.google.com/ahduni.edu.in/2022-apsipa-ss-aad))
-  + **Special Session on Information Security meets Adversarial Examples** ([WIFS 2019](https://signalprocessingsociety.org/WIFS2019/index9f1c.html?q=node/18))
+
 
