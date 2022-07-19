@@ -1,7 +1,5 @@
 # A curated list of AI Security & Privacy events
 
-A curated list of AI Security & Privacy events (**Workshops, Tutorials, and Special sessions**) for different communities.
-
 <!-- Beyond other resources (e.g. [papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) and [tookits](https://opensourcelibs.com/libs/adversarial-examples)), here we provide a curated list of related events (e.g. workshops and tutorials) and hope it can help light up your journey on AI Security and Privacy. :smile_cat:	 -->
 
 
