@@ -28,6 +28,7 @@
   + **Socially Responsible Machine Learning** ([ICML 2021](https://icmlsrml2021.github.io/))
   + **Uncertainty & Robustness in Deep Learning** ([ICML 2021](https://sites.google.com/view/udlworkshop2021/home), [ICML 2020](https://sites.google.com/view/udlworkshop2020/home))
   + **Security and Privacy of Machine Learning** ([ICML 2019](https://icml2019workshop.github.io/))
+  + **ML Safety** ([NeurIPS 2022](https://neurips2022.mlsafety.org/))
   + **Privacy in Machine Learning** ([NeurIPS 2021](https://priml2021.github.io/))
   + **Dataset Curation and Security** ([NeurIPS 2020](http://securedata.lol/))
   + **Security in Machine Learning** ([NeurIPS 2018](https://secml2018.github.io/))
