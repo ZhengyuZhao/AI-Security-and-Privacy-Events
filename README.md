@@ -16,7 +16,7 @@
   + **Deep Learning and Security** ([Oakland 2018-present](https://dls2022.ieee-security.org/))
 
 - ### Machine Learning & Artificial Intelligence
-  + **Socially Responsible Machine Learning** ([ICLR 2022](https://iclrsrml.github.io/))
+  + **Socially Responsible Machine Learning** ([NeurIPS 2022](https://tsrml2022.github.io/), [ICLR 2022](https://iclrsrml.github.io/), [ICML 2021](https://icmlsrml2021.github.io/))
   + **Privacy, Accountability, Interpretability, Robustness, Reasoning on Structured Data** ([ICLR 2022](https://pair2struct-workshop.github.io/))
   + **Security and Safety in Machine Learning Systems** ([ICLR 2021](https://aisecure-workshop.github.io/aml-iclr2021/))
   + **Robust and Reliable Machine Learning in the Real World** ([ICLR 2021](https://sites.google.com/connect.hku.hk/robustml-2021/home))
@@ -25,7 +25,6 @@
   + **Theory and Practice of Differential Privacy** ([ICML 2022](https://tpdp.journalprivacyconfidentiality.org/2022/)) 
   + **New Frontiers in Adversarial Machine Learning** ([ICML 2022](https://advml-frontier.github.io/)) 
   + **A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning** ([ICML 2021](https://advml-workshop.github.io/icml2021/))
-  + **Socially Responsible Machine Learning** ([ICML 2021](https://icmlsrml2021.github.io/))
   + **Uncertainty & Robustness in Deep Learning** ([ICML 2021](https://sites.google.com/view/udlworkshop2021/home), [ICML 2020](https://sites.google.com/view/udlworkshop2020/home))
   + **Security and Privacy of Machine Learning** ([ICML 2019](https://icml2019workshop.github.io/))
   + **ML Safety** ([NeurIPS 2022](https://neurips2022.mlsafety.org/))
