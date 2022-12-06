@@ -30,6 +30,7 @@
   + **AISafety** ([IJCAI 2019-2022](https://www.aisafetyw.org/))
   + **Privacy Preserving Machine Learning** ([FOCS 2022, CCS 2021, NeurIPS 2020, CCS 2019, NeurIPS 2018](https://ppml-workshop.github.io/))
   + **Uncertainty & Robustness in Deep Learning** ([ICML 2020-2021](https://sites.google.com/view/udlworkshop2021/home))
+  + **Backdoor Attacks and Defenses in Machine Learning** ([ICLR 2023](https://iclr23-bands.github.io/))
   + **Privacy, Accountability, Interpretability, Robustness, Reasoning on Structured Data** ([ICLR 2022](https://pair2struct-workshop.github.io/))
   + **Security and Safety in Machine Learning Systems** ([ICLR 2021](https://aisecure-workshop.github.io/aml-iclr2021/))
   + **Robust and Reliable Machine Learning in the Real World** ([ICLR 2021](https://sites.google.com/connect.hku.hk/robustml-2021/home))
