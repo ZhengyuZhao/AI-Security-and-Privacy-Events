@@ -75,6 +75,7 @@
   + **Foundational Robustness of Foundation Models** ([NeurIPS 2022](https://sites.google.com/view/neurips2022-frfm-turotial/home))
   + **Quantitative Reasoning About Data Privacy in Machine Learning** ([ICML 2022](https://icml.cc/Conferences/2022/Schedule?showEvent=18439))
   + **Adversarial Robustness - Theory and Practice** ([NeurIPS 2018](https://adversarial-ml-tutorial.org/))
+  + **Towards Adversarial Learning: from Evasion Attacks to Poisoning Attacks** ([KDD 2022](https://sites.google.com/view/kdd22-tutorial-adv-learn/))
   + **Adversarial Robustness in Deep Learning: From Practices to Theories** ([KDD 2021](https://sites.google.com/view/kdd21-tutorial-adv-robust/))
   + **Adversarial Attacks and Defenses: Frontiers, Advances and Practice** ([KDD 2020](https://sites.google.com/view/kdd-2020-attack-and-defense/home))
   + **Adversarial Robustness of Deep Learning: Theory, Algorithms, and Applications** ([ICDM 2020](https://tutorial.trustdeeplearning.com/))
