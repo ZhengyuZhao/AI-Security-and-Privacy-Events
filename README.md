@@ -6,7 +6,7 @@
   + [**Privacy and Security in ML (PriSec-ML)**](https://prisec-ml.github.io/)
   + [**Machine Learning Security (MLSec)**](https://www.youtube.com/c/MLSec/playlists)
   + [**Seminars on Security & Privacy in Machine Learning (ML S&P)**](https://vsehwag.github.io/SPML_seminar/)  
-  + [**AI Security and Privacy (AISP)**](http://scl.sribd.cn/seminar/) (in Chinese)
+  + [**AI Security and Privacy (AISP)**](https://space.bilibili.com/1556922191/?spm_id_from=333.999.0.0) (in Chinese)
 
 
 
