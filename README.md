@@ -9,8 +9,6 @@
   + [**AI Security and Privacy (AISP)**](https://space.bilibili.com/1556922191/?spm_id_from=333.999.0.0) (in Chinese)
 
 
-
-
 ## Conference
   + [**IEEE Conference on Secure and Trustworthy Machine Learning (2022-)**](https://satml.org/)
 ## Special Session
@@ -24,13 +22,14 @@
   + **Deep Learning and Security** ([Oakland 2018-present](https://dls2022.ieee-security.org/))
 
 - ### Machine Learning & Artificial Intelligence
+  + **Backdoor Attacks and Defenses in Machine Learning** ([ICLR 2023](https://iclr23-bands.github.io/))
+  + **Privacy-Preserving Artificial Intelligence** ([AAAI 2020-2023](https://aaai-ppai23.github.io/))
   + **Socially Responsible Machine Learning** ([NeurIPS 2022](https://tsrml2022.github.io/), [ICLR 2022](https://iclrsrml.github.io/), [ICML 2021](https://icmlsrml2021.github.io/))
   + **Adversarial Learning Methods for Machine Learning and Data Mining** ([KDD 2019-2022](https://sites.google.com/view/advml))
   + **SafeAI** ([AAAI 2019-2022](https://safeai.webs.upv.es/))
   + **AISafety** ([IJCAI 2019-2022](https://www.aisafetyw.org/))
   + **Privacy Preserving Machine Learning** ([FOCS 2022, CCS 2021, NeurIPS 2020, CCS 2019, NeurIPS 2018](https://ppml-workshop.github.io/))
   + **Uncertainty & Robustness in Deep Learning** ([ICML 2020-2021](https://sites.google.com/view/udlworkshop2021/home))
-  + **Backdoor Attacks and Defenses in Machine Learning** ([ICLR 2023](https://iclr23-bands.github.io/))
   + **Privacy, Accountability, Interpretability, Robustness, Reasoning on Structured Data** ([ICLR 2022](https://pair2struct-workshop.github.io/))
   + **Security and Safety in Machine Learning Systems** ([ICLR 2021](https://aisecure-workshop.github.io/aml-iclr2021/))
   + **Robust and Reliable Machine Learning in the Real World** ([ICLR 2021](https://sites.google.com/connect.hku.hk/robustml-2021/home))
