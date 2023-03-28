@@ -20,7 +20,7 @@
 - ### Security & Privacy
   + **Artificial Intelligence and Security** ([CCS 2008-present](https://aisec.cc/))
   + **Deep Learning and Security** ([Oakland 2018-present](https://dls2022.ieee-security.org/))
-
+  + **Dependable and Secure Machine Learning** ([DSN 2018-present](https://dependablesecureml.github.io/index.html))
 - ### Machine Learning & Artificial Intelligence
   + **Backdoor Attacks and Defenses in Machine Learning** ([ICLR 2023](https://iclr23-bands.github.io/))
   + **Privacy-Preserving Artificial Intelligence** ([AAAI 2020-2023](https://aaai-ppai23.github.io/))
