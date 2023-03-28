@@ -11,34 +11,30 @@
 
 ## Conference
   + [**IEEE Conference on Secure and Trustworthy Machine Learning (2022-)**](https://satml.org/)
-## Special Session
-  + **Special Track on Safe and Robust AI** ([AAAI 2023](https://aaai.org/Conferences/AAAI-23/safeandrobustai/))
-  + **Special Session on Adversarial Learning for Multimedia Understanding and Retrieval** ([ICMR 2022](https://al4mur.github.io/))
-  + **Special Session on Adversarial Attack and Defense** ([APSIPA 2022](https://sites.google.com/ahduni.edu.in/2022-apsipa-ss-aad))
-  + **Special Session on Information Security meets Adversarial Examples** ([WIFS 2019](https://signalprocessingsociety.org/WIFS2019/index9f1c.html?q=node/18))
+ 
+  
 ## Workshop
+
 - ### Security & Privacy
   + **Artificial Intelligence and Security** ([CCS 2008-present](https://aisec.cc/))
   + **Deep Learning and Security** ([Oakland 2018-present](https://dls2022.ieee-security.org/))
   + **Dependable and Secure Machine Learning** ([DSN 2018-present](https://dependablesecureml.github.io/index.html))
+  
 - ### Machine Learning & Artificial Intelligence
   + **Backdoor Attacks and Defenses in Machine Learning** ([ICLR 2023](https://iclr23-bands.github.io/))
-  + **Privacy-Preserving Artificial Intelligence** ([AAAI 2020-2023](https://aaai-ppai23.github.io/))
-  + **Socially Responsible Machine Learning** ([NeurIPS 2022](https://tsrml2022.github.io/), [ICLR 2022](https://iclrsrml.github.io/), [ICML 2021](https://icmlsrml2021.github.io/))
-  + **Adversarial Learning Methods for Machine Learning and Data Mining** ([KDD 2019-2022](https://sites.google.com/view/advml))
-  + **SafeAI** ([AAAI 2019-2022](https://safeai.webs.upv.es/))
-  + **AISafety** ([IJCAI 2019-2022](https://www.aisafetyw.org/))
-  + **Privacy Preserving Machine Learning** ([FOCS 2022, CCS 2021, NeurIPS 2020, CCS 2019, NeurIPS 2018](https://ppml-workshop.github.io/))
-  + **Uncertainty & Robustness in Deep Learning** ([ICML 2020-2021](https://sites.google.com/view/udlworkshop2021/home))
   + **Privacy, Accountability, Interpretability, Robustness, Reasoning on Structured Data** ([ICLR 2022](https://pair2struct-workshop.github.io/))
   + **Security and Safety in Machine Learning Systems** ([ICLR 2021](https://aisecure-workshop.github.io/aml-iclr2021/))
   + **Robust and Reliable Machine Learning in the Real World** ([ICLR 2021](https://sites.google.com/connect.hku.hk/robustml-2021/home))
   + **Towards Trustworthy ML: Rethinking Security and Privacy for ML** ([ICLR 2020](https://trustworthyiclr20.github.io/))
   + **Safe Machine Learning: Specification, Robustness and Assurance** ([ICLR 2019](https://sites.google.com/view/safeml-iclr2019))
-  + **Theory and Practice of Differential Privacy** ([ICML 2022](https://tpdp.journalprivacyconfidentiality.org/2022/)) 
+  
+  + **Theory and Practice of Differential Privacy** ([ICML 2022-2023](https://advml-frontier.github.io/)) 
+  + **Uncertainty & Robustness in Deep Learning** ([ICML 2020-2021](https://sites.google.com/view/udlworkshop2021/home))
   + **New Frontiers in Adversarial Machine Learning** ([ICML 2022](https://advml-frontier.github.io/)) 
   + **A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning** ([ICML 2021](https://advml-workshop.github.io/icml2021/))
-  + **Security and Privacy of Machine Learning** ([ICML 2019](https://icml2019workshop.github.io/))
+  + **Security and Privacy of Machine Learning** ([ICML 2019](https://icml2019workshop.github.io/))  
+  
+  + **Socially Responsible Machine Learning** ([NeurIPS 2022](https://tsrml2022.github.io/), [ICLR 2022](https://iclrsrml.github.io/), [ICML 2021](https://icmlsrml2021.github.io/))
   + **ML Safety** ([NeurIPS 2022](https://neurips2022.mlsafety.org/))
   + **Privacy in Machine Learning** ([NeurIPS 2021](https://priml2021.github.io/))
   + **Dataset Curation and Security** ([NeurIPS 2020](http://securedata.lol/))
@@ -46,9 +42,15 @@
   + **Machine Learning and Computer Security** ([NeurIPS 2017](https://machine-learning-and-security.github.io/))
   + **Adversarial Training** ([NeurIPS 2016](https://sites.google.com/site/nips2016adversarial/))
   + **Reliable Machine Learning in the Wild** ([NeurIPS 2016](https://sites.google.com/site/wildml2016nips/home))
+  
+  + **Adversarial Learning Methods for Machine Learning and Data Mining** ([KDD 2019-2022](https://sites.google.com/view/advml))
+  + **Privacy Preserving Machine Learning** ([FOCS 2022, CCS 2021, NeurIPS 2020, CCS 2019, NeurIPS 2018](https://ppml-workshop.github.io/))
+  + **SafeAI** ([AAAI 2019-2022](https://safeai.webs.upv.es/))
+  + **Privacy-Preserving Artificial Intelligence** ([AAAI 2020-2023](https://aaai-ppai23.github.io/))
   + **Practical Deep Learning in the Wild** ([AAAI 2022](https://practical-dl.github.io/))
   + **Adversarial Machine Learning and Beyond** ([AAAI 2022](https://advml-workshop.github.io/aaai2022/))
   + **Towards Robust, Secure and Efficient Machine Learning** ([AAAI2021](http://federated-learning.org/rseml2021/))
+  + **AISafety** ([IJCAI 2019-2022](https://www.aisafetyw.org/))
 
 
 - ### Computer Vision
@@ -68,12 +70,10 @@
   + **Online Misinformation- and Harm-Aware Recommender Systems** ([RecSys 2021](https://ohars-recsys.isistan.unicen.edu.ar/topics-of-interest), [RecSys 2020](https://ohars-recsys2020.isistan.unicen.edu.ar/))
   + **Adversarial Machine Learning for Recommendation and Search** ([CIKM 2021](https://sisinflab.github.io/adverse2021/))
 
-  
-  
 ## Tutorial  
 - ### Machine Learning & Artificial Intelligence
-  + **Foundational Robustness of Foundation Models** ([NeurIPS 2022](https://sites.google.com/view/neurips2022-frfm-turotial/home))
   + **Quantitative Reasoning About Data Privacy in Machine Learning** ([ICML 2022](https://icml.cc/Conferences/2022/Schedule?showEvent=18439))
+  + **Foundational Robustness of Foundation Models** ([NeurIPS 2022](https://sites.google.com/view/neurips2022-frfm-turotial/home))
   + **Adversarial Robustness - Theory and Practice** ([NeurIPS 2018](https://adversarial-ml-tutorial.org/))
   + **Towards Adversarial Learning: from Evasion Attacks to Poisoning Attacks** ([KDD 2022](https://sites.google.com/view/kdd22-tutorial-adv-learn/))
   + **Adversarial Robustness in Deep Learning: From Practices to Theories** ([KDD 2021](https://sites.google.com/view/kdd21-tutorial-adv-robust/))
@@ -95,5 +95,10 @@
 - ### Information Retrieval
   + **Adversarial Machine Learning in Recommender Systems** ([ECIR 2021](https://www.youtube.com/watch?v=8V4TLdYMit8&list=PLted5MzCy6KwnlE3kFmeQJhDJCbS1lAt0&index=3), [RecSys 2020](https://www.youtube.com/watch?v=tjzykHbBd0w&list=PLted5MzCy6KwnlE3kFmeQJhDJCbS1lAt0&index=2), [WSDM 2020](https://github.com/sisinflab/amlrecsys-tutorial/blob/master/Tutorial-AML-RecSys-WSDM2020.pdf))
 
+## Special Session
+  + **Special Track on Safe and Robust AI** ([AAAI 2023](https://aaai.org/Conferences/AAAI-23/safeandrobustai/))
+  + **Special Session on Adversarial Learning for Multimedia Understanding and Retrieval** ([ICMR 2022](https://al4mur.github.io/))
+  + **Special Session on Adversarial Attack and Defense** ([APSIPA 2022](https://sites.google.com/ahduni.edu.in/2022-apsipa-ss-aad))
+  + **Special Session on Information Security meets Adversarial Examples** ([WIFS 2019](https://signalprocessingsociety.org/WIFS2019/index9f1c.html?q=node/18))
 
 
