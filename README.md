@@ -28,9 +28,9 @@
   + **Towards Trustworthy ML: Rethinking Security and Privacy for ML** ([ICLR 2020](https://trustworthyiclr20.github.io/))
   + **Safe Machine Learning: Specification, Robustness and Assurance** ([ICLR 2019](https://sites.google.com/view/safeml-iclr2019))
   
-  + **Theory and Practice of Differential Privacy** ([ICML 2022-2023](https://advml-frontier.github.io/)) 
+  + **New Frontiers in Adversarial Machine Learning** ([ICML 2022-2023](https://advml-frontier.github.io/)) 
+  + **Theory and Practice of Differential Privacy** ([ICML 2021-2022](https://tpdp.journalprivacyconfidentiality.org/2022/)) 
   + **Uncertainty & Robustness in Deep Learning** ([ICML 2020-2021](https://sites.google.com/view/udlworkshop2021/home))
-  + **New Frontiers in Adversarial Machine Learning** ([ICML 2022](https://advml-frontier.github.io/)) 
   + **A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning** ([ICML 2021](https://advml-workshop.github.io/icml2021/))
   + **Security and Privacy of Machine Learning** ([ICML 2019](https://icml2019workshop.github.io/))  
   
