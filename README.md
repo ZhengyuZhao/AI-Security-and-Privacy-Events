@@ -27,7 +27,7 @@
   + **Security and Safety in Machine Learning Systems** ([ICLR 2021](https://aisecure-workshop.github.io/aml-iclr2021/))
   + **Robust and Reliable Machine Learning in the Real World** ([ICLR 2021](https://sites.google.com/connect.hku.hk/robustml-2021/home))
   + **Towards Trustworthy ML: Rethinking Security and Privacy for ML** ([ICLR 2020](https://trustworthyiclr20.github.io/))
-  + **Safe Machine Learning: Specification, Robustness and Assurance** ([ICLR 2019](https://sites.google.com/view/safeml-iclr2019)
+  + **Safe Machine Learning: Specification, Robustness and Assurance** ([ICLR 2019](https://sites.google.com/view/safeml-iclr2019))
   + **New Frontiers in Adversarial Machine Learning** ([ICML 2022-2023](https://advml-frontier.github.io/)) 
   + **Theory and Practice of Differential Privacy** ([ICML 2021-2022](https://tpdp.journalprivacyconfidentiality.org/2022/)) 
   + **Uncertainty & Robustness in Deep Learning** ([ICML 2020-2021](https://sites.google.com/view/udlworkshop2021/home))
