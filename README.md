@@ -21,6 +21,7 @@
   + **Dependable and Secure Machine Learning** ([DSN 2018-present](https://dependablesecureml.github.io/index.html))
   
 - ### Machine Learning & Artificial Intelligence
+  + **Backdoors in Deep Learning: The Good, the Bad, and the Ugly** ([NeurIPS 2023](https://neurips2023-bugs.github.io/))
   + **Trustworthy and Reliable Large-Scale Machine Learning Models** ([ICLR 2023](https://rtml-iclr2023.github.io/))
   + **Backdoor Attacks and Defenses in Machine Learning** ([ICLR 2023](https://iclr23-bands.github.io/))
   + **Privacy, Accountability, Interpretability, Robustness, Reasoning on Structured Data** ([ICLR 2022](https://pair2struct-workshop.github.io/))
