@@ -88,6 +88,7 @@
   + **Deep Learning for Privacy in Multimedia** ([ACMMM 2020](http://cis.eecs.qmul.ac.uk/privacymultimedia.html))
  
 - ### Natural Language Processing
+  + **Vulnerabilities of Large Language Models to Adversarial Attacks** ([ACL 2024](https://llm-vulnerability.github.io/))
   + **Robustness and Adversarial Examples in Natural Language Processing** ([EMNLP 2021](https://2021.emnlp.org/tutorials))
   + **Deep Adversarial Learning for NLP** ([NAACL 2019](https://sites.cs.ucsb.edu/~william/papers/AdvNLP-NAACL2019.pdf))
 
