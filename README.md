@@ -17,9 +17,10 @@
 
 - ### Security & Privacy
   + **Artificial Intelligence and Security** ([CCS 2008-present](https://aisec.cc/))
-  + **Deep Learning and Security** ([Oakland 2018-present](https://dls2022.ieee-security.org/))
+  + **Deep Learning and Security** ([S&P 2018-present](https://dls2022.ieee-security.org/))
   + **Dependable and Secure Machine Learning** ([DSN 2018-present](https://dependablesecureml.github.io/index.html))
-  
+  + **AI System with Confidential Computing** ([NDSS 2024](https://sites.google.com/view/aiscc2024))
+
 - ### Machine Learning & Artificial Intelligence
   + **Backdoors in Deep Learning: The Good, the Bad, and the Ugly** ([NeurIPS 2023](https://neurips2023-bugs.github.io/))
   + **Trustworthy and Reliable Large-Scale Machine Learning Models** ([ICLR 2023](https://rtml-iclr2023.github.io/))
