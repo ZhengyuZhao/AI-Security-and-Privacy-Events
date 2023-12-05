@@ -3,6 +3,7 @@
 <!-- Beyond other resources (e.g. [papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) and [tookits](https://opensourcelibs.com/libs/adversarial-examples)), here we provide a curated list of related events (e.g. workshops and tutorials) and hope it can help light up your journey on AI Security and Privacy. :smile_cat:	 -->
 
 ## Seminar
+  + [**NLP & LLM Security**](https://sig.llmsecurity.net/talks/)
   + [**Privacy and Security in ML (PriSec-ML)**](https://prisec-ml.github.io/)
   + [**Machine Learning Security (MLSec)**](https://www.youtube.com/c/MLSec/playlists)
   + [**Seminars on Security & Privacy in Machine Learning (ML S&P)**](https://vsehwag.github.io/SPML_seminar/)  
