@@ -23,6 +23,7 @@
   + **AI System with Confidential Computing** ([NDSS 2024](https://sites.google.com/view/aiscc2024))
 
 - ### Machine Learning & Artificial Intelligence
+  + **Secure and Trustworthy Large Language Models** ([ICLR 2024](https://set-llm.github.io/))
   + **Backdoors in Deep Learning: The Good, the Bad, and the Ugly** ([NeurIPS 2023](https://neurips2023-bugs.github.io/))
   + **Trustworthy and Reliable Large-Scale Machine Learning Models** ([ICLR 2023](https://rtml-iclr2023.github.io/))
   + **Backdoor Attacks and Defenses in Machine Learning** ([ICLR 2023](https://iclr23-bands.github.io/))
