@@ -24,6 +24,8 @@
 
 - ### Machine Learning & Artificial Intelligence
   + **Secure and Trustworthy Large Language Models** ([ICLR 2024](https://set-llm.github.io/))
+  + **Reliable and Responsible Foundation Models** ([ICLR 2024](https://iclr-r2fm.github.io/))
+  + **Privacy Regulation and Protection in Machine Learning** ([ICLR 2024](https://pml-workshop.github.io/iclr24/))
   + **Backdoors in Deep Learning: The Good, the Bad, and the Ugly** ([NeurIPS 2023](https://neurips2023-bugs.github.io/))
   + **Trustworthy and Reliable Large-Scale Machine Learning Models** ([ICLR 2023](https://rtml-iclr2023.github.io/))
   + **Backdoor Attacks and Defenses in Machine Learning** ([ICLR 2023](https://iclr23-bands.github.io/))
