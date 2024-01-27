@@ -12,8 +12,8 @@
 
 ## Conference
   + [**IEEE Conference on Secure and Trustworthy Machine Learning (2022-)**](https://satml.org/)
- 
-  
+  + [**The Conference on Applied Machine Learning in Information Security (2017-)**](https://www.camlis.org/)
+
 ## Workshop
 
 - ### Security & Privacy
