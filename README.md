@@ -18,7 +18,7 @@
 
 - ### Security & Privacy
   + **Artificial Intelligence and Security** ([CCS 2008-present](https://aisec.cc/))
-  + **Deep Learning and Security** ([S&P 2018-present](https://dls2022.ieee-security.org/))
+  + **Deep Learning Security and Privacy** ([S&P 2018-present](https://dlsp2024.ieee-security.org/))
   + **Dependable and Secure Machine Learning** ([DSN 2018-present](https://dependablesecureml.github.io/index.html))
   + **AI System with Confidential Computing** ([NDSS 2024](https://sites.google.com/view/aiscc2024))
 
