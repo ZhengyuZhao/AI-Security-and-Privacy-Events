@@ -58,7 +58,7 @@
   + **AISafety** ([IJCAI 2019-2022](https://www.aisafetyw.org/))
 
 - ### Computer Vision
-  + **Adversarial Machine Learning on Computer Vision: Art of Robustness** ([CVPR 2023](https://robustart.github.io/), [CVPR 2022](https://artofrobust.github.io/))
+  + **Adversarial Machine Learning on Computer Vision** ([CVPR 2024](https://cvpr24-advml.github.io/), [CVPR 2023](https://robustart.github.io/), [CVPR 2022](https://artofrobust.github.io/), [CVPR 2020](https://adv-workshop-2020.github.io/))
   + **Secure and Safe Autonomous Driving** ([CVPR 2023](https://ai-secure.github.io/SSAD2023/))
   + **Adversarial Robustness in the Real World** ([ICCV 2023](https://iccv23-arow.github.io/), [ECCV 2022](https://eccv22-arow.github.io/), [ICCV 2021](https://iccv21-adv-workshop.github.io/), [CVPR 2021](https://aisecure-workshop.github.io/amlcvpr2021/), [ECCV 2020](https://eccv20-adv-workshop.github.io/), [CVPR 2020](https://adv-workshop-2020.github.io/), [CVPR 2019](https://amlcvpr2019.github.io/))
   + **The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security** ([CVPR 2021](https://quovadiscvpr.cispa.de/), [ECCV 2020](https://cvcops20.cispa.saarland/), [CVPR 2019](https://cvcops19.cispa.saarland/), [CVPR 2018](https://vision.soic.indiana.edu/bright-and-dark-workshop-2018/), [CVPR 2017](https://vision.soic.indiana.edu/bright-and-dark-workshop-2017/))
