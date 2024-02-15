@@ -52,7 +52,7 @@
   + **SafeAI** ([AAAI 2019-2022](https://safeai.webs.upv.es/))
   + **Responsible Language Models** ([AAAI 2024](https://sites.google.com/vectorinstitute.ai/relm2024/home))
   + **Privacy-Preserving Artificial Intelligence** ([AAAI 2020-2024](https://aaai-ppai24.github.io/))
-  + **Practical Deep Learning in the Wild** ([AAAI 2022](https://practical-dl.github.io/))
+  + **Practical Deep Learning in the Wild** ([CAI 2024, AAAI 2022-2023](https://practical-dl.github.io/))
   + **Adversarial Machine Learning and Beyond** ([AAAI 2022](https://advml-workshop.github.io/aaai2022/))
   + **Towards Robust, Secure and Efficient Machine Learning** ([AAAI2021](http://federated-learning.org/rseml2021/))
   + **AISafety** ([IJCAI 2019-2022](https://www.aisafetyw.org/))
