@@ -20,6 +20,7 @@
   + **Artificial Intelligence and Security** ([CCS 2008-](https://aisec.cc/))
   + **Deep Learning Security and Privacy** ([S&P 2018-](https://dlsp2024.ieee-security.org/))
   + **Dependable and Secure Machine Learning** ([DSN 2018-](https://dependablesecureml.github.io/index.html))
+  + **Security Architectures for Generative-AI Systems** ([S&P 2024](https://sites.google.com/view/sagai2024/home))
   + **AI System with Confidential Computing** ([NDSS 2024](https://sites.google.com/view/aiscc2024))
 
 - ### Machine Learning & Artificial Intelligence
