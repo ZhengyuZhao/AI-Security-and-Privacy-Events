@@ -17,15 +17,18 @@
 ## Workshop
 
 - ### Security & Privacy
-  + **Artificial Intelligence and Security** ([CCS 2008-present](https://aisec.cc/))
-  + **Deep Learning Security and Privacy** ([S&P 2018-present](https://dlsp2024.ieee-security.org/))
-  + **Dependable and Secure Machine Learning** ([DSN 2018-present](https://dependablesecureml.github.io/index.html))
+  + **Artificial Intelligence and Security** ([CCS 2008-](https://aisec.cc/))
+  + **Deep Learning Security and Privacy** ([S&P 2018-](https://dlsp2024.ieee-security.org/))
+  + **Dependable and Secure Machine Learning** ([DSN 2018-](https://dependablesecureml.github.io/index.html))
   + **AI System with Confidential Computing** ([NDSS 2024](https://sites.google.com/view/aiscc2024))
 
 - ### Machine Learning & Artificial Intelligence
   + **Secure and Trustworthy Large Language Models** ([ICLR 2024](https://set-llm.github.io/))
   + **Reliable and Responsible Foundation Models** ([ICLR 2024](https://iclr-r2fm.github.io/))
   + **Privacy Regulation and Protection in Machine Learning** ([ICLR 2024](https://pml-workshop.github.io/iclr24/))
+  + **Responsible Language Models** ([AAAI 2024](https://sites.google.com/vectorinstitute.ai/relm2024/home))
+  + **Privacy-Preserving Artificial Intelligence** ([AAAI 2020-2024](https://aaai-ppai24.github.io/))
+  + **Practical Deep Learning in the Wild** ([CAI 2024, AAAI 2022-2023](https://practical-dl.github.io/))
   + **Backdoors in Deep Learning: The Good, the Bad, and the Ugly** ([NeurIPS 2023](https://neurips2023-bugs.github.io/))
   + **Trustworthy and Reliable Large-Scale Machine Learning Models** ([ICLR 2023](https://rtml-iclr2023.github.io/))
   + **Backdoor Attacks and Defenses in Machine Learning** ([ICLR 2023](https://iclr23-bands.github.io/))
@@ -50,9 +53,6 @@
   + **Adversarial Learning Methods for Machine Learning and Data Mining** ([KDD 2019-2022](https://sites.google.com/view/advml))
   + **Privacy Preserving Machine Learning** ([FOCS 2022, CCS 2021, NeurIPS 2020, CCS 2019, NeurIPS 2018](https://ppml-workshop.github.io/))
   + **SafeAI** ([AAAI 2019-2022](https://safeai.webs.upv.es/))
-  + **Responsible Language Models** ([AAAI 2024](https://sites.google.com/vectorinstitute.ai/relm2024/home))
-  + **Privacy-Preserving Artificial Intelligence** ([AAAI 2020-2024](https://aaai-ppai24.github.io/))
-  + **Practical Deep Learning in the Wild** ([CAI 2024, AAAI 2022-2023](https://practical-dl.github.io/))
   + **Adversarial Machine Learning and Beyond** ([AAAI 2022](https://advml-workshop.github.io/aaai2022/))
   + **Towards Robust, Secure and Efficient Machine Learning** ([AAAI2021](http://federated-learning.org/rseml2021/))
   + **AISafety** ([IJCAI 2019-2022](https://www.aisafetyw.org/))
