@@ -24,6 +24,8 @@
   + **AI System with Confidential Computing** ([NDSS 2024](https://sites.google.com/view/aiscc2024))
 
 - ### Machine Learning & Artificial Intelligence
+  + **Next Generation of AI Safety** ([ICML 2024](https://icml-nextgenaisafety.github.io/))
+  + **Trustworthy Multi-modal Foundation Models and AI Agents** ([ICML 2024](https://icml-tifa.github.io/))
   + **Secure and Trustworthy Large Language Models** ([ICLR 2024](https://set-llm.github.io/))
   + **Reliable and Responsible Foundation Models** ([ICLR 2024](https://iclr-r2fm.github.io/))
   + **Privacy Regulation and Protection in Machine Learning** ([ICLR 2024](https://pml-workshop.github.io/iclr24/))
