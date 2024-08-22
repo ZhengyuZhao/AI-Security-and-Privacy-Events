@@ -24,6 +24,10 @@
   + **AI System with Confidential Computing** ([NDSS 2024](https://sites.google.com/view/aiscc2024))
 
 - ### Machine Learning & Artificial Intelligence
+  + **Red Teaming GenAI: What Can We Learn from Adversaries?** ([NeurIPS 2024](https://redteaming-gen-ai.github.io/))
+  + **Safe Generative AI** ([NeurIPS 2024](https://safegenaiworkshop.github.io/))
+  + **Towards Safe & Trustworthy Agents** ([NeurIPS 2024](https://www.mlsafety.org/events/neurips/2024))
+  + **Socially Responsible Language Modelling Research** ([NeurIPS 2024](https://solar-neurips.github.io/))
   + **Next Generation of AI Safety** ([ICML 2024](https://icml-nextgenaisafety.github.io/))
   + **Trustworthy Multi-modal Foundation Models and AI Agents** ([ICML 2024](https://icml-tifa.github.io/))
   + **Secure and Trustworthy Large Language Models** ([ICLR 2024](https://set-llm.github.io/))
@@ -61,6 +65,9 @@
   + **AISafety** ([IJCAI 2019-2022](https://www.aisafetyw.org/))
 
 - ### Computer Vision
+  + **The Dark Side of Generative AIs and Beyond** ([ECCV 2024](https://privacy-preserving-computer-vision.github.io/eccv24.html))
+  + **Trust What You learN** ([ECCV 2024](https://twyn.unimore.it/))
+  + **Privacy for Vision & Imaging** ([ECCV 2024](https://sites.google.com/view/rcv-at-eccv-2022/home?authuser=0))
   + **Adversarial Machine Learning on Computer Vision** ([CVPR 2024](https://cvpr24-advml.github.io/), [CVPR 2023](https://robustart.github.io/), [CVPR 2022](https://artofrobust.github.io/), [CVPR 2020](https://adv-workshop-2020.github.io/))
   + **Secure and Safe Autonomous Driving** ([CVPR 2023](https://ai-secure.github.io/SSAD2023/))
   + **Adversarial Robustness in the Real World** ([ICCV 2023](https://iccv23-arow.github.io/), [ECCV 2022](https://eccv22-arow.github.io/), [ICCV 2021](https://iccv21-adv-workshop.github.io/), [CVPR 2021](https://aisecure-workshop.github.io/amlcvpr2021/), [ECCV 2020](https://eccv20-adv-workshop.github.io/), [CVPR 2020](https://adv-workshop-2020.github.io/), [CVPR 2019](https://amlcvpr2019.github.io/))
@@ -71,7 +78,9 @@
   + **Adversarial Machine Learning towards Advanced Vision Systems** ([ACCV 2022](https://sites.google.com/view/workshop-of-amlavs))
 
 - ### Natural Language Processing
-  + **BlackboxNLP** ([EMNLP 2022](https://blackboxnlp.github.io/), [EMNLP 2021](https://blackboxnlp.github.io/), [EMNLP 2020](https://blackboxnlp.github.io/2020/), [ACL 2019](https://blackboxnlp.github.io/2019/), [EMNLP 2018](https://blackboxnlp.github.io/2018/))
+  + **Trustworthy Natural Language Processing** ([2021-2024](https://trustnlpworkshop.github.io/))
+  + **Privacy in Natural Language Processing** ([ACL 2024](https://sites.google.com/view/privatenlp/), [NAACL 2022](https://sites.google.com/view/privatenlp/home/naacl-2022), [NAACL 2021](https://sites.google.com/view/privatenlp/home/naacl-2021), [EMNLP 2020](https://sites.google.com/view/privatenlp/home/emnlp-2020), [WSDM 2020](https://sites.google.com/view/privatenlp/home/wsdm-2020))
+  + **BlackboxNLP** ([2018-2024](https://blackboxnlp.github.io/))
   
 - ### Information Retrieval
   + **Online Misinformation- and Harm-Aware Recommender Systems** ([RecSys 2021](https://ohars-recsys.isistan.unicen.edu.ar/topics-of-interest), [RecSys 2020](https://ohars-recsys2020.isistan.unicen.edu.ar/))
